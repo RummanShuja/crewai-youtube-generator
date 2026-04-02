@@ -24,6 +24,7 @@ This mimics how real teams work — dividing responsibilities for better output.
 ## 📂 Project Structure
 
 ```text
+├── assets/     # Store your screenshots here (e.g., output.png)
 ├── agents.py   # Defines AI agents
 ├── tasks.py    # Defines tasks assigned to agents
 ├── tools.py    # (Optional) Add external tools
@@ -108,6 +109,7 @@ topic = "CrewAI Tutorial for Beginners"
 ```
 
 ## 📤 Example Output
+![image alt](https://github.com/RummanShuja/crewai-youtube-generator/blob/e231636749001870d5d37f80f0709f2e3f7481ef/assets/output.png)
 
 
 **The agents successfully generate:**
